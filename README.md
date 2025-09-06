@@ -26,7 +26,7 @@ GitHub – project documentation and version control
 
 📁 Dataset
 ---
-Source: Dataset (https://www.kaggle.com/datasets/surajjha101/fortune-top-1000-companies-by-revenue-2022)
+Source: [Dataset](https://www.kaggle.com/datasets/surajjha101/fortune-top-1000-companies-by-revenue-2022)
 
 Key Fields Used:
 
